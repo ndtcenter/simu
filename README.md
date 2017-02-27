@@ -1,2 +1,2 @@
 # simu
-simu of my yun date source
+simu of my yun data source
