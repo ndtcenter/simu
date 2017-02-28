@@ -1,2 +1,2 @@
 # simu
-simu of my yun data source
+slimulate a Yun data source so the client can work without real devices
